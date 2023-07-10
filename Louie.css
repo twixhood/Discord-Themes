@@ -1,0 +1,15 @@
+/* LOB */
+[class^="panels-3wFtMD"]::before {
+    content: "";
+    width: 47px;
+    height: 47px;
+    left: 185px;
+    margin-top: -47px;
+    position: absolute;
+    background-image: url('https://media.discordapp.net/stickers/981087718354325514.webp?size=48&name=LOB&quality=lossless');
+}
+
+[aria-label="Servers sidebar"] img {
+    content: url(https://cdn.discordapp.com/emojis/1128036582528659517.gif?size=96&quality=lossless);
+}
+
